@@ -19,5 +19,9 @@ for i in ec2.instances.all():
 [Blog Boto3](https://unipython.com/aws-sdk-para-python-boto3/)
 
 
+### Exercises proposed
+[AWS EC2 Management with Python Boto3 – Create, Monitor & Delete EC2 Instances](https://python.gotrained.com/aws-ec2-management-python-boto3/)
+
+
 
 
